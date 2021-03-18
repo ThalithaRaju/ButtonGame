@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\bin\Debug\ButtonGame.exe.config
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\bin\Debug\ButtonGame.exe
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\bin\Debug\ButtonGame.pdb
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.Form1.resources
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.exe
+C:\Users\Thalitha\source\repos\ButtonGame\ButtonGame\obj\Debug\ButtonGame.pdb
